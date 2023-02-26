@@ -26,7 +26,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   
-<p align="justify">👋 Hi there! I'm Hana, a student of Electrical Engineering at the Faculty of Electrical Engineering in Sarajevo. I'm passionate about math and programming, and I love using these skills to solve interesting problems. When I'm not working on projects, I enjoy exploring new places, discovering unique experiences, and capturing those moments through photography. I'm always up for an adventure, and I'm excited to see where my interests in tech and creativity will take me next. Thanks for checking out my profile!</p>
+<p align="justify">👋 Hi there! I'm Hana, a student of Electrical Engineering at the Faculty of Electrical Engineering in Sarajevo. 
+  <br>
+  I'm passionate about math and programming, and I love using these skills to solve interesting problems. 
+  <br>
+  When I'm not working on projects, I enjoy exploring new places, discovering unique experiences, 
+  <br>
+  and capturing those moments through photography. I'm always up for an adventure, and I'm excited to see
+  <br> where my interests in tech and creativity will take me next. Thanks for checking out my profile!</p>
   </div>
 
 
