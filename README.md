@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/welcome-friendly/sit-with-me.gif"  style="margin-left: 20px;" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/welcome-friendly/sit-with-me.gif"  />
 
 ###
 
@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left" style="width: 60%;">👋 Hi there! I'm Hana, a student of Electrical Engineering at the Faculty of Electrical Engineering in Sarajevo. I'm passionate about math and programming, and I love using these skills to solve interesting problems. When I'm not working on projects, I enjoy exploring new places, discovering unique experiences, and capturing those moments through photography. I'm always up for an adventure, and I'm excited to see where my interests in tech and creativity will take me next. Thanks for checking out my profile!</p>
+<br clear="right">
+
+<p align="justify">👋 Hi there! I'm Hana, a student of Electrical Engineering at the Faculty of Electrical Engineering in Sarajevo. I'm passionate about math and programming, and I love using these skills to solve interesting problems. When I'm not working on projects, I enjoy exploring new places, discovering unique experiences, and capturing those moments through photography. I'm always up for an adventure, and I'm excited to see where my interests in tech and creativity will take me next. Thanks for checking out my profile!</p>
 
 ###
 
@@ -52,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/mahmutovichana/mahmutovichana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img align="center" src="https://github.com/mahmutovichana/mahmutovichana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
