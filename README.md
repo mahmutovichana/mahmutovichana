@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutovichana&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" height="150" alt="Hana's github stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutovichana&layout=compact&theme=cobalt&hide_border=true" height="150"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutovichana&show_icons=true&theme=cobalt&hide_border=true" height="150" alt="Hana's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutovichana&layout=compact&theme=cobalt&hide_border=true" height="150"/>
 </div>
 
 ###
