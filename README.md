@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/welcome-friendly/sit-with-me.gif"  />
 </div>
 
-<div align="left">
+<div align="left" display="inline-block">
   <a href="https://www.linkedin.com/in/hana-mahmutovi%C4%87-a1a08a218/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -25,6 +25,8 @@
   <a href="https://www.facebook.com/hana.mahmut/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <br></br>  
+<img align="center" src="https://komarev.com/ghpvc/?username=mahmutovichana-github-username&color=ff0099">
   <br><br/>
 <p align="justify">👋 Hi there! I'm Hana, a student of Electrical Engineering at the Faculty of Electrical Engineering in Sarajevo. 
   <br>
